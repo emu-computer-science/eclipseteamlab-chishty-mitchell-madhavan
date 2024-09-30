@@ -6,7 +6,7 @@ public class Driver {
 		Hungry.hungry();
 		Glad.glad();
 		Sad.sad();
-		Hungry.madhavan(); 
-	
+		Hungry.madhavan();
+	 	Sad.credits();
 	}
 }
